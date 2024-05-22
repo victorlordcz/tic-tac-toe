@@ -19,20 +19,6 @@
 
 - O jogo termina quando um jogador forma uma linha com três de seus respectivos símbolos, ou quando o tabuleiro estiver cheio, resultando em empate.
 
-# | Exemplo | 
+''' | Exemplo | 
 
 Jogador X, insira sua jogada (1-9): 5
-  |   |  
-----------
-  | X |
-----------
-  |   |
-----------
-
-Jogador O, insira sua jogada (1-9): 2
-  | O |  
-----------
-  | X |
-----------
-  |   |
-----------
