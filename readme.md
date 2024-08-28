@@ -1,12 +1,12 @@
-# ||||| Jogo da velha ||||| 
+#  Jogo da velha 
 
-# | Como Jogar |
+#  Como Jogar 
 
 1. Copie o repositório do GitHub.
 2. Navegue até o diretório do projeto.
 3. Execute o arquivo `jogodavelha.py` com Python.
 
-# | Dicas como jogar:
+#  Dicas como jogar:
 
 - O jogo é para dois jogadores, que jogam alternadamente.
 - O jogador 1 (X) sempre inicia o jogo.
@@ -21,7 +21,7 @@
 
 - O jogo termina quando um jogador forma uma linha com três de seus respectivos símbolos, ou quando o tabuleiro estiver cheio, resultando em empate.
 
-# | Exemplo | 
+#  Exemplo 
 Jogador X, insira sua jogada (1-9): 5
 
   |   |  
